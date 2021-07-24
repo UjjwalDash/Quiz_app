@@ -19,4 +19,5 @@ In this project i had use the ```sqlite3```  database which is defult database i
 basically all the qustions that are saved in the database are displayed in the screen randomly for this 
 i had use ```random``` module of python.
 After few minutes the program will automatically close and score will be shown on your screen.
-For this i had use ```time``` module of python
+For this i had use ```time``` module of python.
+```quiz.py``` is the main file and rest are supportive file.
